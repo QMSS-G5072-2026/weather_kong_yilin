@@ -1,5 +1,7 @@
 # weather_yk3215
 
+[![CI](https://github.com/QMSS-G5072-2026/weather_kong_yilin/actions/workflows/ci.yml/badge.svg)](https://github.com/QMSS-G5072-2026/weather_kong_yilin/actions/workflows/ci.yml)
+
 A Python package for processing weather data
 
 ## Installation
