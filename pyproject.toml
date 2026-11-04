@@ -1,6 +1,6 @@
 [project]
 name = "weather_yk3215"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Python package for processing weather data"
 readme = "README.md"
 authors = [{ name = "Yilin Kong", email = "yk3215@columbia.edu" }]
